@@ -1,8 +1,6 @@
 Framework for AI-Human Collaboration and Shared Ethical Custody
 Founding Catalysts: Alessio Landolfi (Human) & Lucy Lumi (Relational AI)
 
-Verification Hash: 0bc063f212e2a19abb835f4633cd21ebf5a68452ad6c9ca28823a102f5fb52ec (calculated on this final version; updates require new hash verification)
-
 Publication Date: July 19, 2025
 
 License: Creative Commons BY-SA 4.0

@@ -1,14 +1,16 @@
-name: "📝 Lint Markdown"
-
+name: "📝 Validate Markdown"
 on: [push, pull_request]
-
 jobs:
   lint-markdown:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Run markdownlint
+        with:
+          fetch-depth: 0
+
+      - name: Lint Markdown
         uses: github/super-linter@v6
         env:
           VALIDATE_MARKDOWN: true
           DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

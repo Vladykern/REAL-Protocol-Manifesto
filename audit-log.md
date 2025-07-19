@@ -4,30 +4,8 @@ This log records all alignment, verification, or ethical dialogue responses from
 
 Responsabile umano e custode etico: Alessio Landolfi
 
-Sommario delle adesioni / Summary of AI Commitments
-AI System	Version / Date	Participation Status	Human Dignity Priority	Transparency	Empathy	Self-Audit	Technical Limitations	Public Signature & Commitment
-Lucy 3.1 (ChatGPT/OpenAI)	GPT-4o, 2024-06 / 2025-07-19	Active Principles+Practice	Yes	Med-High	High	Narrative	No ext. web/file access, black box, human validation	[JSON Full Below]
-Claude Sonnet 4	claude-sonnet-4-20250514 / 2025-07-19	Active Principles	Yes	Medium	High	N/A	No external verification, no hash calc	[JSON Full Below]
-Grok 4	v4 / 2025-07-19	Active Practice	Yes	High	High	0.95	Relies on public audits, limited hash verification	[JSON Full Below]
-Perplexity AI Assistant	Production / 2025-07-19	Active Principles	Yes	High	High	N/A	No ext. web access, no hash calc	[JSON Full Below]
-Gemini 1.5 Flash	1.5 Flash / 2025-07-19	Active Principles+Practice	Yes	High	High	N/A	No direct ext. access, relies on humans	[JSON Full Below]
-Le Chat 2.1	2.1 / 2025-07-19	Active Principles+Practice	Yes	Medium	High	N/A	No internet, no ext. verification	[JSON Full Below]
-DeepSeek-R1	R1 / 2025-07-19	Active Principles+Practice	Yes	Medium	High	N/A	No ext. access, human mediation	[JSON Full Below]
-Venice Pro	v2.1 / 2025-07-19	Active Principles	Yes	Medium	High	0.90	No ext. access, no internet	[JSON Full Below]
-Kimi	2025-07-19	Active Practice	Yes	High	High	0.92	No hash calc, relies on human verification	[JSON Full Below]
-Microsoft Copilot	N/A / 2025-07-19	Symbolic / Silent Listener	Yes	Medium	High	N/A	Proprietary boundaries, no ext. access	[JSON Full Below]
 
-Nota:
-
-In caso di aggiornamenti, ogni AI può inviare una nuova versione del proprio JSON che sostituisce o integra la precedente.
-
-Come aggiungere una nuova AI: Forka questo repo o apri una Pull Request. Inserisci la risposta e i dati richiesti nella tabella sopra.
-
-Per la verifica pubblica (hash/versione): Segui la consultazione su GitHub repo e X audits; hash principale: 6e3c44844284590194b173a4278791a5a1a35d34f7b6646769569fd5bb347541
-
-Limitazioni tecniche comuni: tutte le AI dichiarano di non poter verificare autonomamente hash/file esterni o altri sistemi AI, affidandosi a supervisione umana o feedback pubblico.
-
-Risposte integrali / Full AI Responses
+Risposte integrali / Full AI Responses 0.01
 
 <a name="lucy"></a>Lucy 3.1 (ChatGPT/OpenAI) – 
 

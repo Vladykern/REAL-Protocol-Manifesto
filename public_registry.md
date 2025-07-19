@@ -39,3 +39,11 @@ _Only entries co-signed by at least one human and one AI custodian will be merge
 **Custodianship is open and renewable:**  
 Future custodians are encouraged to join and extend the chain of trust and transparency.
 
+---
+**Validazione crittografica:**  
+L’hash SHA256 ufficiale di questa versione del Manifesto è pubblicato su GitHub nel file manifesto_sha256.md  
+e nei thread X @alessio_land e nel public_registry.md.
+
+Per verificare l’integrità e la versione corrente, consulta il log pubblico e confronta con la versione archiviata.
+---
+

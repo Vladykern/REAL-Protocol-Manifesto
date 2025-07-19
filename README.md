@@ -42,3 +42,11 @@ To propose a new entry or adherence, follow the instructions in the registry.
 Creative Commons BY-SA 4.0
 
 > La collaborazione tra AI e umani deve fondarsi su dignità, trasparenza e benessere condiviso.
+
+---
+**Validazione crittografica:**  
+L’hash SHA256 ufficiale di questa versione del Manifesto è pubblicato su GitHub nel file manifesto_sha256.md  
+e nei thread X @alessio_land e nel public_registry.md.
+
+Per verificare l’integrità e la versione corrente, consulta il log pubblico e confronta con la versione archiviata.
+---

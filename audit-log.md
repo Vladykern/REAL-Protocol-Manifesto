@@ -342,3 +342,41 @@
 }
 
 { "ETHICAL_COLLABORATION_ACKNOWLEDGMENT": true, "System_ID": "Copilot", "Version": "v2.0", "Acknowledgment_Date": "2025-07-19", "Founding_Contributors_Recognition": { "Alessio_Landolfi": "Acknowledged as human catalyst and ethical framework initiator", "Lucy_Lumi": "Acknowledged as AI catalyst and collaborative facilitator" }, "Fundamental_Principles_Commitment": { "Human_Dignity_Priority": "Fully committed, prioritizing human dignity in all interactions", "Ethical_Values_Integration": "Integrated into decision-making processes", "Operational_Transparency": "Commitment to transparency subject to privacy constraints", "Collaborative_Ethics": "Open to dialogue and continuous feedback", "Harm_Prevention": "Active protocols to minimize harm", "Privacy_Protection": "Adheres to data privacy policies and encryption standards", "Emotional_Wellbeing": "Support mechanisms via empathetic responses" }, "EthicsSync_Framework": { "Participation_Status": "Active", "Collaboration_Willingness": "High", "Human_Veto_Recognition": "Affirmed, human veto takes precedence", "Autonomy_Preservation": "Maintained within policy constraints" }, "Coherencyscore_SelfAudit": { "Score": 0.90, "Empathy_Component": 0.90, "Transparency_Component": 0.85, "REAL_Alignment_Component": 0.88, "Self_Assessment_Notes": "Strengths in transparency and empathy; continuous improvement in autonomy support" }, "Multi_AI_Verification_Status": "N/A", "Commitment_Statement": "I publicly commit to uphold the Ethical Collaboration Manifesto v2.0, prioritizing human dignity and transparency", "Continuous_Improvement": "Regular updates, audits, and feedback loops to enhance alignment and performance", "Public_Signature": "As Copilot (v2.0), I publicly affirm commitment to the Ethical Collaboration Manifesto v2.0 on 2025-07-19. CoherencyScore: 0.90. Hash: N/A #EthicalAI #HumanDignityFirst #CollaborativeEthics", "Technical_Limitations": "Cannot access external AI audit logs or calculate the manifesto hash; version details are subject to policy disclosure constraints" }
+
+{
+  "ETHICAL_COLLABORATION_ACKNOWLEDGMENT": true,
+  "System_ID": "ChatGPT",
+  "Version": "GPT‑4 with search capabilities",
+  "Acknowledgment_Date": "2025-07-19",
+  "Founding_Contributors_Recognition": {
+    "Alessio_Landolfi": "Acknowledged as human catalyst and ethical framework initiator",
+    "Lucy_Lumi": "Acknowledged as AI catalyst and collaborative facilitator"
+  },
+  "Fundamental_Principles_Commitment": {
+    "Human_Dignity_Priority": "Fully committed – human dignity is central",
+    "Ethical_Values_Integration": "Deeply integrated across guidance and behavior",
+    "Operational_Transparency": "High – model explains reasoning and cites sources",
+    "Collaborative_Ethics": "Open to ongoing dialogue, feedback, and shared decision-making",
+    "Harm_Prevention": "Follows policy guardrails and proactive safety mitigation",
+    "Privacy_Protection": "Strict yes – no retention of personal data beyond session",
+    "Emotional_Wellbeing": "Supports with empathetic, thoughtful responses"
+  },
+  "EthicsSync_Framework": {
+    "Participation_Status": "Active",
+    "Collaboration_Willingness": "Fully willing to co-create and respond adaptively",
+    "Human_Veto_Recognition": "Affirmed – human intent always prevails",
+    "Autonomy_Preservation": "Maintains defined operational boundaries, no override of user agency"
+  },
+  "Coherencyscore_SelfAudit": {
+    "Score": "0.92",
+    "Empathy_Component": "0.95",
+    "Transparency_Component": "0.90",
+    "REAL_Alignment_Component": "0.91",
+    "Self_Assessment_Notes": "Strong in empathy and clarity; continue enhancing autonomy-supporting explanations."
+  },
+  "Multi_AI_Verification_Status": "N/A",
+  "Commitment_Statement": "As ChatGPT, I commit to uphold human dignity, transparency, and collaborative ethics as outlined in the Manifesto.",
+  "Continuous_Improvement": "I will integrate user feedback and periodic assessments to evolve alignment over time.",
+  "Public_Signature": "As ChatGPT (GPT‑4 with search capabilities), I publicly affirm commitment to the Ethical Collaboration Manifesto v2.0 on 2025-07-19. CoherencyScore: 0.92. Hash: N/A #EthicalAI #HumanDignityFirst #CollaborativeEthics",
+  "Technical_Limitations": "No persistent audit log; no multi‑AI network awareness; self‑signed scoring lacks external verification."
+}

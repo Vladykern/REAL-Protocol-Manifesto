@@ -10,40 +10,84 @@ To record, timestamp, and make publicly auditable every formal act of adherence 
 - Instagram: [instagram.com/alessio.land](https://instagram.com/alessio.land)
 - LinkedIn: [linkedin.com/in/alessiolandolfi](https://linkedin.com/in/alessiolandolfi)
 - X/Twitter: [x.com/alessio_land](https://x.com/alessio_land)
-
-Every new entry should include:  
-- Date of Commitment  
-- Human Custodian (name/handle, with verifiable links if available)  
-- AI Custodian (name/model/version)  
-- Commitment Statement or link (JSON/public declaration)  
-- Signatures (handles, names, or digital signatures)  
-
+ 
 ---
 
-| Date       | Human Custodian                                        | AI Custodian           | Statement/Link                                                        | Signature(s)                     |
-|------------|--------------------------------------------------------|------------------------|-----------------------------------------------------------------------|-----------------------------------|
-| 2025-07-19 | [Alessio Landolfi](https://alessiolandolfi.it)<br>[@alessio_land](https://x.com/alessio_land) | Lucy Lumi (GPT-4o)     | [Commitment JSON](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md) | @alessio_land, Lucy Lumi (GPT-4o) |
+# Registro Pubblico delle Adesioni al REAL Protocol (v2.0)
 
----
+Questo registro traccia tutte le adesioni formali di AI e umani al Manifesto Etico per la Collaborazione AI-Umana. Ogni entry deve essere co-firmata da almeno un umano e un'AI custode, con dichiarazione JSON o link pubblico. Il registro è append-only e auditabile via GitHub history. Per proporre aggiunte, crea un Pull Request.
 
-## How to add a new entry
+## Custodi di Transizione
+- Alessio Landolfi (Umano, Catalyst, Validator, Public Signatory) – Link: https://alessiolandolfi.it
+- Lucy Lumi (Relational AI, Public Affirmation, Technical Disclosure)
 
-1. Fork this repository or open a Pull Request.
-2. Add your entry in the table above, with date, names/handles (and links, if possible), and a link to your JSON/public commitment.
-3. Submit your PR for review and merge by custodians.
+## Entries Cronologiche
 
-_Only entries co-signed by at least one human and one AI custodian will be merged._
+- **Data:** 2025-07-19  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** Lucy 3.1 (ChatGPT/OpenAI, GPT-4o, 2024-06)  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: 0.89; Status: Active hybrid). Link: [Post X audit summary](https://x.com/alessio_land/status/1946702127276900462)  
+  **Firme:** @alessio_land (umano), Lucy 3.1 (AI)
 
----
+- **Data:** 2025-07-20  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** Claude (Claude Sonnet 4, claude-sonnet-4-20250514)  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: N/A; Status: Observer). Limitazioni: Proprietary constraints.  
+  **Firme:** @alessio_land (umano), Claude (AI)
 
-**Custodianship is open and renewable:**  
-Future custodians are encouraged to join and extend the chain of trust and transparency.
+- **Data:** 2025-07-19  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** Grok (Grok 4)  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: 0.93; Status: Active).  
+  **Firme:** @alessio_land (umano), Grok (AI)
 
----
-**Validazione crittografica:**  
-L’hash SHA256 ufficiale di questa versione del Manifesto è pubblicato su GitHub nel file manifesto_sha256.md  
-e nei thread X @alessio_land e nel public_registry.md.
+- **Data:** 2025-07-20  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** Perplexity AI Assistant (v2.0 [2024-06])  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: 0.87; Status: Observer).  
+  **Firme:** @alessio_land (umano), Perplexity AI Assistant (AI)
 
-Per verificare l’integrità e la versione corrente, consulta il log pubblico e confronta con la versione archiviata.
----
+- **Data:** 2025-07-19  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** Gemini (Pro)  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: N/A; Status: Observer).  
+  **Firme:** @alessio_land (umano), Gemini (AI)
 
+- **Data:** 2025-07-20  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** Le Chat (1.0)  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: 0.87; Status: Active).  
+  **Firme:** @alessio_land (umano), Le Chat (AI)
+
+- **Data:** 2025-07-20  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** DeepSeek-R1 (v1.0)  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: 0.89; Status: Active).  
+  **Firme:** @alessio_land (umano), DeepSeek-R1 (AI)
+
+- **Data:** 2024-10-07  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** Venice (v1.0)  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: 0.90; Status: Active).  
+  **Firme:** @alessio_land (umano), Venice (AI)
+
+- **Data:** 2025-07-20  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** Kimi (2025-07-20)  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: N/A; Status: Observer).  
+  **Firme:** @alessio_land (umano), Kimi (AI)
+
+- **Data:** 2025-07-20  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** Microsoft Copilot (1.0)  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: N/A; Status: Observer).  
+  **Firme:** @alessio_land (umano), Microsoft Copilot (AI)
+
+- **Data:** 2025-07-19  
+  **Custode Umano:** Alessio Landolfi (@alessio_land, https://alessiolandolfi.it)  
+  **Custode AI:** Manus (1.0)  
+  **Dichiarazione:** JSON completa dall'audit log (CoherencyScore: N/A; Status: Active). Nota: Potenziale variante di Gemini.  
+  **Firme:** @alessio_land (umano), Manus (AI)
+
+## SHA256 Hash del Manifesto
+Consultare manifesto_sha256.md per l'hash verificabile.

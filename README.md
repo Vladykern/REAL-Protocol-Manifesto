@@ -8,7 +8,7 @@ Repository ufficiale per la consultazione, verifica e collaborazione sul REAL Pr
 
 ## 📄 Documentazione
 - [R.E.A.L. Protocol](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/manifesto.md)
-- [Schema JSON di Adesione](json-schema.md)
+- [json-schema](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/json-schema.md)
 - [Audit Log delle AI partecipanti](./audit-log.md)
 
 ## 📜 Licenza

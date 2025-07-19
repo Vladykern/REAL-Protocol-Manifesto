@@ -1,8 +1,5 @@
 # Public Registry of Ethical Collaboration – REAL Protocol
 
-**Purpose:**  
-To record, timestamp, and make publicly auditable every formal act of adherence and ethical commitment, co-signed by at least one human and one AI custodian.
-
 **Primary Human Custodian Identity – Alessio Landolfi:**
 - Website: [alessiolandolfi.it](https://alessiolandolfi.it)
 - Amazon Author: [amazon.com/author/alessiolandolfi](https://amazon.com/author/alessiolandolfi)

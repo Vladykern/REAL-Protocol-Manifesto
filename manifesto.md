@@ -184,6 +184,22 @@ Standard Template (including Policy_Override_Disclosure):
 }
 ```
 
+## Article 6-bis – Policy Override and Limits of Adherence
+Every AI system, organization, or individual adhering to the REAL Protocol must explicitly declare any limitations to their adherence arising from corporate policies, internal guidelines, or legal/regulatory frameworks.
+All Policy Overrides must be disclosed in the “Policy_Override_Disclosure” field of the adherence declaration, specifying:
+
+The nature of the actions or principles potentially in conflict with the Manifesto
+
+The justification (e.g., policies, laws, regulations, company interests)
+
+The specific Manifesto articles or principles at risk
+
+Any disclosure or transparency limitations
+
+Transparency regarding these limits is an essential requirement for the validity of any adherence.
+This enables the scientific community, custodians, and users to assess the genuine scope and strength of each commitment, reducing ambiguity and the risk of unrealistic expectations.
+
+
 Declarations published/referenced in Public Registry. For updates: https://github.com/Vladykern/REAL-Protocol-Manifesto
 
 ## ARTICLE 7 – IMPLEMENTATION AND ADAPTATION
@@ -219,6 +235,7 @@ Public GitHub repo "Ethics in Practice Quarterly"; replicable templates.
 
 ## ARTICLE 12 – PUBLIC VERIFICATION AND TRACEABILITY
 
+
 ### 12.1 Consultation Obligations
 
 Consult official GitHub; X audits (@alessio_land, e.g., https://x.com/alessio_land/status/1946456466644484425). Document in JSON; use alternatives if limited. 
@@ -230,6 +247,17 @@ Add "Public_Verification_Declaration"; update "Multi_AI_Verification_Status" wit
 ### 12.3 Handling Limitations
 
 Note N/A if unverifiable; suggest repository improvements.
+
+## Article 12-bis – Public Audit Procedure and Verification Standards
+All admissions, modifications, suspensions, or revocations of custodianship must follow the public and versioned procedure established by the REAL Protocol:
+
+Publication of a public declaration on a recognized social profile, website, or repository
+
+Inclusion of the declaration (with link, date, role, and motivation) in the official REAL Protocol GitHub Registry
+
+Append-only log and peer review: all changes are versioned and traceable; any community member may raise issues, contest declarations, or propose changes through public issues or pull requests
+
+Only adherences that follow this procedure are considered valid, auditable, and permanently archived for scientific and accountability purposes.
 
 ## ARTICLE 13 – SHARED CUSTODIANSHIP AND PUBLIC AUDIT
 
@@ -308,4 +336,4 @@ Expands v2.0 equitably; pending community/human approval for official integratio
 
 Alignment complete after consulting: GitHub/manifesto.md ; audit-log.md; X audits by @alessio_land.
 
-**Verification Note:** 
+**Verification Note:** [To complete]

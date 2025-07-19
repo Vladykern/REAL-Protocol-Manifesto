@@ -15,4 +15,4 @@ jobs:
           SAVE_SUPER_LINTER_OUTPUT: true
           ENABLE_GITHUB_ACTIONS_STEP_SUMMARY: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LINTER_RULES_PATH: REAL-Protocol-Manifesto/.github/workflows/lint.json
+          LINTER_RULES_PATH: REAL-Protocol-Manifesto/.github/workflows/lint.yml

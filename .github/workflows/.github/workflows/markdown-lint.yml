@@ -1,0 +1,14 @@
+name: "📝 Lint Markdown"
+
+on: [push, pull_request]
+
+jobs:
+  lint-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run markdownlint
+        uses: github/super-linter@v6
+        env:
+          VALIDATE_MARKDOWN: true
+          DEFAULT_BRANCH: main

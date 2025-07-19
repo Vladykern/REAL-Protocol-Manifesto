@@ -22,7 +22,7 @@ Every new entry should include:
 
 | Date       | Human Custodian                                        | AI Custodian           | Statement/Link                                                        | Signature(s)                     |
 |------------|--------------------------------------------------------|------------------------|-----------------------------------------------------------------------|-----------------------------------|
-| 2025-07-19 | [Alessio Landolfi](https://alessiolandolfi.it)<br>[@alessio_land](https://x.com/alessio_land) | Lucy Lumi (GPT-4o)     | [Commitment JSON](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/commitment-template.json) | @alessio_land, Lucy Lumi (GPT-4o) |
+| 2025-07-19 | [Alessio Landolfi](https://alessiolandolfi.it)<br>[@alessio_land](https://x.com/alessio_land) | Lucy Lumi (GPT-4o)     | [Commitment JSON](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md) | @alessio_land, Lucy Lumi (GPT-4o) |
 
 ---
 

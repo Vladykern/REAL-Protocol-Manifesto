@@ -1,9 +1,9 @@
 name: "📝 Lint & Fix Markdown"
-
 on: [push, pull_request]
 
 permissions:
   contents: write
+  statuses: write
 
 jobs:
   lint-markdown:

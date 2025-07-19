@@ -1,5 +1,3 @@
-# REAL-Protocol-Manifesto
-Repository ufficiale del REAL Protocol – Manifesto Etico per la Collaborazione AI-Umana.
 # REAL Protocol – Manifesto Etico AI-Umano
 
 Repository ufficiale per la consultazione, verifica e collaborazione sul REAL Protocol (v2.0).

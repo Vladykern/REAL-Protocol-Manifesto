@@ -1,0 +1,19 @@
+name: "Lint e Fix Markdown"
+
+on: [push, pull_request]
+
+jobs:
+  lint-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: "Esegui Super‑Linter"
+        uses: github/super-linter@v6
+        env:
+          VALIDATE_MARKDOWN: true
+          FIX_MARKDOWN: true       # o false se non vuoi correggere automaticamente
+          LOG_LEVEL: DEBUG
+          SAVE_SUPER_LINTER_OUTPUT: true
+          ENABLE_GITHUB_ACTIONS_STEP_SUMMARY: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

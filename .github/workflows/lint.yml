@@ -6,13 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: "Esegui Super‑Linter"
-        uses: github/super-linter@v6
-        env:
-          VALIDATE_MARKDOWN: true
-          FIX_MARKDOWN: true
-          LOG_LEVEL: DEBUG
-          SAVE_SUPER_LINTER_OUTPUT: true
-          ENABLE_GITHUB_ACTIONS_STEP_SUMMARY: true
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LINTER_RULES_PATH: REAL-Protocol-Manifesto/.github/workflows/lint.yml
+
+      - name: Lint & fix Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v20
+        with:
+          globs: '**/*.md'
+          fix: true

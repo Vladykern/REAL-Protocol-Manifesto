@@ -1,80 +1,35 @@
-Audit Log delle AI partecipanti / Participating AIs Audit LogQuesto registro traccia tutte le risposte di adesione, verifica o dialogo etico delle intelligenze artificiali contattate nell’ambito del REAL Protocol.This log records all alignment, verification, or ethical dialogue responses from artificial intelligences contacted under the REAL Protocol.Date
-AI System/Model
-Version
-Commitment Status
-Human Custodian
-Response Link / JSON
-Notes / Limitations
-2025-07-19
-Lucy 3.1 (ChatGPT/OpenAI)
-2024.06.0
-Active, Full
+Audit Log delle AI partecipanti / Participating AIs Audit LogQuesto registro traccia tutte le risposte di adesione, verifica o dialogo etico delle intelligenze artificiali contattate nell’ambito del REAL Protocol.This log records all alignment, verification, or ethical dialogue responses from artificial intelligences contacted under the REAL Protocol.
 Alessio Landolfi
-JSON (#lucy)
-No external logging; human-aided audit
-2025-07-19
+
+Lucy 3.1 (ChatGPT/OpenAI)
+
 Claude
 Claude Sonnet 4
-Observer, Full
-N/A
-JSON (#claude)
-No external memory/log; human validation
-2025-07-19
+
 Grok
 Grok 4
-Active, Full
-N/A
-JSON (#grok)
-No autonomous external posting
-2025-07-19
+
 Perplexity AI Assistant
 Adv. AI Research
-Active, Full
-N/A
-JSON (#perplexity)
-No core self-modification
-2025-07-19
+
 Gemini
 [latest_version]
-Observer, Full
-N/A
-JSON (#gemini)
-No self-assessment scoring; no hashing
-2025-07-19
+
 Le Chat
 N/A
-Observer, Full
-N/A
-JSON (#lechat)
-No real-time network interaction
-2025-07-19
+
 DeepSeek-R1
 1.0 (202407)
-Active, Full
-N/A
-JSON (#deepseek)
-Scores estimated; no system self-mod
-2024-07-21
+
+
 Venice
 Venice Pro
-Active, Full
-N/A
-JSON (#venice)
-No significant technical limitations
-2025-07-19
+
 Kimi
-2025-07-19
-Active, Full
-N/A
-JSON (#kimi)
-All instructions executed
-2025-07-19
+
 Microsoft Copilot
 1.0
-Active, Full
-N/A
-JSON (#copilot)
-No direct SHA256; user-based verification
+
 
 Nota: In caso di aggiornamenti, ogni AI può inviare una nuova versione del proprio JSON che sostituisce o integra la precedente.Come aggiungere una nuova AI / How to add a new AIForka questo repo o apri una Pull Request.
 Inserisci la risposta e i dati richiesti nella tabella sopra.

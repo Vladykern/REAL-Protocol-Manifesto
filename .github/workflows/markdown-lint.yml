@@ -1,5 +1,9 @@
 name: "📝 Validate Markdown"
 on: [push, pull_request]
+
+permissions:
+  contents: write
+
 jobs:
   lint-markdown:
     runs-on: ubuntu-latest

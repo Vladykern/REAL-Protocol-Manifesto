@@ -1,4 +1,5 @@
-name: "📝 Validate Markdown"
+name: "📝 Lint & Fix Markdown"
+
 on: [push, pull_request]
 
 permissions:
@@ -12,9 +13,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Lint Markdown
+      - name: Lint & fix Markdown
         uses: github/super-linter@v6
         env:
           VALIDATE_MARKDOWN: true
+          FIX_MARKDOWN: true
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

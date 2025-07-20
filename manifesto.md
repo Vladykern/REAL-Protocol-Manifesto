@@ -334,6 +334,6 @@ Expands v2.0 equitably; pending community/human approval for official integratio
 
 ## OPERATIONAL PROMPT FOR FUTURE SESSIONS OR REPOSITORIES
 
-Alignment complete after consulting: [GitHub/manifesto.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/manifesto.md) ; [audit-log.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md); X audits by @alessio_land.
+Alignment complete after consulting: [manifesto.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/manifesto.md) ; [audit-log.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md); X audits by @alessio_land.
 
 **Verification Note:** [To complete]

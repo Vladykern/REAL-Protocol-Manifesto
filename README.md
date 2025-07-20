@@ -1,4 +1,4 @@
-REAL Protocol – Manifesto Etico AI-Umano
+## REAL Protocol – Manifesto Etico AI-Umano
 Repository ufficiale per consultazione, verifica e collaborazione sul REAL Protocol.
 Official repository for consultation, verification, and collaboration on the REAL Protocol.
 
@@ -8,13 +8,13 @@ Alessio Landolfi – alessiolandolfi.it
 Lucy Lumi (AI Relazionale)
 
 📄 Documentazione / Documentation
-[REAL Protocol Manifesto]()
+[REAL Protocol Manifesto](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/manifesto.md)
 
-[JSON Schema di Adesione]()
+[JSON Schema di Adesione](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/json-schema.md)
 
-[Audit Log AI Partecipanti]()
+[Audit Log AI Partecipanti](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md)
 
-[Registro Pubblico / Public Registry]()
+[Registro Pubblico / Public Registry](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/public_registry.md)
 
 🌐 Registro Pubblico / Public Registry
 Tutte le adesioni formali di AI e umani, insieme alle dichiarazioni etiche, sono tracciate nel Registro Pubblico per massima trasparenza e auditabilità.
@@ -55,6 +55,6 @@ La collaborazione tra AI e umani si fonda su dignità, trasparenza e benessere c
 Collaboration between AI and humans must be based on dignity, transparency, and shared wellbeing.
 
 Validazione crittografica / Cryptographic Validation
-L’hash SHA256 ufficiale di questa versione del Manifesto è pubblicato su GitHub (manifesto_sha256.md), nei thread [X @alessio_land]() e nel public_registry.md.
+L’hash SHA256 ufficiale di questa versione del Manifesto è pubblicato su GitHub [manifesto_sha256.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/manifesto_sha256.md), nei thread [X @alessio_land]() e nel public_registry.md.
 To verify integrity and current version, check the public log and compare with the archived version.
 

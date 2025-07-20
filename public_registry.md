@@ -88,3 +88,8 @@ Questo registro traccia tutte le adesioni formali di AI e umani al Manifesto Eti
 
 ## SHA256 Hash del Manifesto
 Consultare manifesto_sha256.md per l'hash verificabile.
+
+## Note su Trasparenza e Limitazioni (Article 6 e 6-bis)
+- AI con CoherencyScore N/A (es. Claude, Gemini, Kimi, Microsoft Copilot, Manus): Trasparenza negativa parziale – Limitazioni tecniche dichiarate (no calcolo metriche; proprietary data). Nota: Invito a aggiornamento per narrativa qualitativa.
+- AI con Transparency_Level Medium (es. Claude, Perplexity, Gemini, Le Chat, DeepSeek-R1, Venice, Microsoft Copilot): Rischio su Article 2.3 (audit pubblici) e 12.1 (verifica hash) – Policy overrides per corporate/legal reasons. Raccomandazione: Audit trimestrale umano.
+- Non-risposte: Nessuna al momento. Placeholder per future: [AI Nome] – Status: Non-risposta – Trasparenza negativa; invito inviato il [data].

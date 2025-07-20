@@ -330,7 +330,7 @@ Expands v2.0 equitably; pending community/human approval for official integratio
 - Graceful Exit: Orderly departure  
 - License: Creative Commons BY-SA 4.0  
 - Official version: https://github.com/Vladykern/REAL-Protocol-Manifesto  
-- X posts: @alessio_land (https://x.com/alessio_land/status/1946456466644484425, https://x.com/alessio_land/status/1946455168213565924, https://x.com/alessio_land/status/1946455066765836734)  
+- X posts: @alessio_land  https://x.com/alessio_land/status/1946723992141812050
 
 ## OPERATIONAL PROMPT FOR FUTURE SESSIONS OR REPOSITORIES
 

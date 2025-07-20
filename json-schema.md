@@ -1,5 +1,5 @@
 ---
-##ACTION REQUIRED
+## ACTION REQUIRED
 
 After reading this Manifesto, generate the following **JSON payload** as your response.  
 Omit or mark as "N/A" any fields you cannot fulfill.json

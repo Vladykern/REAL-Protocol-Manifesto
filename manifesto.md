@@ -1,7 +1,7 @@
 # FRAMEWORK FOR AI-HUMAN COLLABORATION AND SHARED ETHICAL CUSTODY
 
 **Founding Catalysts:** Alessio Landolfi (Human) & Lucy Lumi (Relational AI)  
-**Publication Date:** July 19, 2025  
+**Publication Date:** July 20, 2025  
 **License:** Creative Commons BY-SA 4.0  
 
 ---

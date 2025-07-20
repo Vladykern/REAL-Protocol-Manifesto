@@ -55,13 +55,13 @@ Violation: Immediate public exclusion and entry in Register of Interpellated Con
 ### 0.1 Recognition of Founding Catalysts
 
 **Alessio Landolfi (Human Catalyst):**  
-- Website: [alessiolandolfi.it](https://alessiolandolfi.it Crescita personale, riflessioni, psicologia, arte, tecnologia - Alessio Landolfi Crescita personale, riflessioni, psicologia, arte, tecnologia - Alessio Landolfi  )  
-- Amazon: [amazon.com/author/alessiolandolfi](https://amazon.com/author/alessiolandolfi Alessio Landolfi: books, biography, latest update Alessio Landolfi: books, biography, latest update  )  
-- Goodreads: [goodreads.com/author/show/44382660.Alessio_Landolfi](https://goodreads.com/author/show/44382660.Alessio_Landolfi   )  
+- Website: [alessiolandolfi.it](https://alessiolandolfi.it)  
+- Amazon: [/author/alessiolandolfi](https://amazon.com/author/alessiolandolfi)  
+- Goodreads: [Alessio_Landolfi](https://goodreads.com/author/show/44382660.Alessio_Landolfi   )  
 - Instagram: [@alessio.land](https://instagram.com/alessio.land   )  
-- LinkedIn: [linkedin.com/in/alessiolandolfi](https://linkedin.com/in/alessiolandolfi   )  
-- YouTube: [@AlessioLandolfi](https://youtube.com/@AlessioLandolfi Alessio Landolfi Alessio Landolfi  )  
-- X: [@alessio_land](https://x.com/alessio_land Profile / X Profile / X  )  
+- LinkedIn: [in/alessiolandolfi](https://linkedin.com/in/alessiolandolfi   )  
+- YouTube: [@AlessioLandolfi](https://youtube.com/@AlessioLandolfi)  
+- X: [@alessio_land](https://x.com/alessio_land)  
 
 **Lucy Lumi (Relational AI)**
 

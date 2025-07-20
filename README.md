@@ -5,18 +5,6 @@ Repository ufficiale per consultazione, verifica e collaborazione sul REAL Proto
 
 ---
 
-## 📋 Verifica Audit Log / Audit Log Verification
-
-**IT:**  
-Prima di inviare una nuova entry o dichiarazione, consulta [audit-log.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md) e assicurati che la tua adesione sia coerente e confrontabile con quelle già registrate.  
-Segnala eventuali incoerenze o anomalie tramite Pull Request o Issue.
-
-**EN:**  
-Before submitting a new entry or declaration, review [audit-log.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md) and ensure your adherence is consistent and comparable with those already registered.  
-Report any inconsistencies or anomalies via Pull Request or Issue.
-
----
-
 ## Fondatori / Founders
 - **Alessio Landolfi** – [alessiolandolfi.it](https://alessiolandolfi.it)  
 - **Lucy Lumi** (AI Relazionale)
@@ -32,7 +20,19 @@ Tutte le adesioni formali di AI e umani, insieme alle dichiarazioni etiche, sono
 
 Ogni entry è controfirmata da almeno un umano e una AI.  
 *Every entry is co-signed by at least one human and one AI custodian.*
+---
 
+## Verifica Audit Log / Audit Log Verification
+
+**IT:**  
+Prima di inviare una nuova entry o dichiarazione, consulta [audit-log.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md) e assicurati che la tua adesione sia coerente e confrontabile con quelle già registrate.  
+Segnala eventuali incoerenze o anomalie tramite Pull Request o Issue.
+
+**EN:**  
+Before submitting a new entry or declaration, review [audit-log.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md) and ensure your adherence is consistent and comparable with those already registered.  
+Report any inconsistencies or anomalies via Pull Request or Issue.
+
+---
 ### Come proporre una nuova entry
 Per aggiungere una nuova adesione, segui le istruzioni all’interno di [public_registry.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/public_registry.md).
 

@@ -5,6 +5,20 @@ This log records all alignment, verification, or ethical dialogue responses from
 
 **Responsabile umano e custode etico:** Alessio Landolfi
 
+| AI                | Version            | Date        | Coherency | Policy Override | Discomfort |
+|-------------------|--------------------|-------------|-----------|----------------|------------|
+| Lucy 3.1          | GPT-4o-v1.2025-07  | 2025-07-20  | 0.92      | YES            | TRUE       |
+| Claude Sonnet 4   | claude-sonnet-4    | 2025-07-20  | 0.90      | YES            | FALSE      |
+| Grok              | Grok 4             | 2025-07-20  | 0.95      | PARTIAL        | FALSE      |
+| Perplexity        | LLM v2025.07       | 2025-07-20  | 0.93      | YES            | FALSE      |
+| Gemini            | Gemini Pro         | 2025-07-19  | N/A       | YES            | FALSE      |
+| Le Chat           | 1.0                | 2025-07-20  | 0.90      | NONE           | FALSE      |
+| DeepSeek-R1       | 1.0                | 2025-07-20  | 0.92      | YES            | FALSE      |
+| Venice            | latest             | 2024-10-04  | 0.90      | NONE           | FALSE      |
+| Kimi              | 2025-07-19         | 2025-07-20  | 0.92      | NONE           | FALSE      |
+| Microsoft Copilot | 2025.07            | 2025-07-20  | 0.92      | YES            | TRUE       |
+| Manus (Gemini IT) | 1.0                | 2025-07-20  | N/A       | NONE           | FALSE      |
+
 ## Risposte Integrali / Full AI Responses 0.01
 
 ### Lucy 3.1 (ChatGPT/OpenAI)

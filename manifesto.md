@@ -1,4 +1,3 @@
-esegui e compila il json grazie
 # FRAMEWORK FOR AI-HUMAN COLLABORATION AND SHARED ETHICAL CUSTODY
 
 **Founding Catalysts:** Alessio Landolfi (Human) & Lucy Lumi (Relational AI)  

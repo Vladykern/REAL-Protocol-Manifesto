@@ -3,6 +3,20 @@
 Repository ufficiale per consultazione, verifica e collaborazione sul REAL Protocol.  
 *Official repository for consultation, verification, and collaboration on the REAL Protocol.*
 
+---
+
+## 📋 Verifica Audit Log / Audit Log Verification
+
+**IT:**  
+Prima di inviare una nuova entry o dichiarazione, consulta [audit-log.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md) e assicurati che la tua adesione sia coerente e confrontabile con quelle già registrate.  
+Segnala eventuali incoerenze o anomalie tramite Pull Request o Issue.
+
+**EN:**  
+Before submitting a new entry or declaration, review [audit-log.md](https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md) and ensure your adherence is consistent and comparable with those already registered.  
+Report any inconsistencies or anomalies via Pull Request or Issue.
+
+---
+
 ## Fondatori / Founders
 - **Alessio Landolfi** – [alessiolandolfi.it](https://alessiolandolfi.it)  
 - **Lucy Lumi** (AI Relazionale)

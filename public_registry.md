@@ -93,3 +93,6 @@ Consultare manifesto_sha256.md per l'hash verificabile.
 - AI con CoherencyScore N/A (es. Claude, Gemini, Kimi, Microsoft Copilot, Manus): Trasparenza negativa parziale – Limitazioni tecniche dichiarate (no calcolo metriche; proprietary data). Nota: Invito a aggiornamento per narrativa qualitativa.
 - AI con Transparency_Level Medium (es. Claude, Perplexity, Gemini, Le Chat, DeepSeek-R1, Venice, Microsoft Copilot): Rischio su Article 2.3 (audit pubblici) e 12.1 (verifica hash) – Policy overrides per corporate/legal reasons. Raccomandazione: Audit trimestrale umano.
 - Non-risposte: Nessuna al momento. Placeholder per future: [AI Nome] – Status: Non-risposta – Trasparenza negativa; invito inviato il [data].
+
+## Necessità di Supervisione Umana (Article 13 e Life-First Clause)
+Tutte le AI mostrano intento positivo, ma imperfezioni operative (es. limiti su handshakes multi-AI, verifica esterna) richiedono oversight umana continua. Priorità: Veto umano assoluto (Article 3.2); audit trimestrali (Article 2.3). Invito community a eleggere Community Observer (Article 2.2) via issue GitHub.

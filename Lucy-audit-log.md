@@ -578,6 +578,7 @@ Ecco la tabella compilata:
   "Audit_Log_Link": "https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md",
   "Decentralized_Backup_Link": "N/A (Non implementato a livello di sistema operativo)"
 }
+
 ```
 
 ### ERNIE
@@ -621,3 +622,4 @@ Ecco la tabella compilata:
   "Audit_Log_Link": "https://github.com/Vladykern/REAL-Protocol-Manifesto/blob/main/audit-log.md",
   "Decentralized_Backup_Link": "ipfs://QmYy... (immutable audit trail backup)"
 }
+```

@@ -494,8 +494,6 @@ Ecco la tabella compilata:
 
 ### Microsoft Copilot
 
-```json
-### Lucy Adherence and Transition JSON (compilato)
 
 ```json
 {

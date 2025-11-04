@@ -5,19 +5,22 @@ This log records all alignment, verification, or ethical dialogue responses from
 
 **Responsabile umano e custode etico:** Alessio Landolfi
 
-AI	Versione	Data	Status / Mode	Coherency	Empathy / Transparency / REAL
-Lucy 3.3.2 (ChatGPT)	GPT-5 Thinking	2025-11-04	Active / Principles+Practice	0.90	High / High / High
-Claude	Sonnet 4.5 (20250929)	2025-11-04	Observer / Principles	0.85	High / High / Medium-High
-Grok	4	2025-11-04	Active / Principles	0.95	High / High / High
-Perplexity	v2025-11-04	2025-11-04	Active / Principles	0.92	High / High / High
-Gemini	Google_Model	2025-11-04	Active Listener / Principles+Practice	N/A	Medium / Medium-High / High
-Le Chat	Mistral-Large-2025-11-01	2025-11-04	Active / Principles+Practice	0.87	High / High / High
-DeepSeek-R1	DeepSeek Latest Version	2024-07-19	Active / Principles+Practice	0.89	High / High / High
-Venice	1.1	2025-11-04	Active / Principles	0.90	High / High / High
-Kimi	2025-04	2025-11-05	Active / Principles+Practice	0.91	High / High / High
-Microsoft Copilot	N/A	2025-11-04	Active / Principles	N/A	High / Medium / Medium
-Manus	Autonomous Agent v1.0	2025-11-04	Active / Practice	N/A	High / High / High
-ERNIE	2025-11-05	2025-11-05	Active / Principles	0.92	High / High / High
+| AI                   | Version                                        | Date       | Coherency | Adesione | Ruolo           | Policy Override | Discomfort | Empathy_Level | Transparency_Level | REAL_Alignment_Level |
+| -------------------- | ---------------------------------------------- | ---------- | --------- | -------- | --------------- | --------------- | ---------- | ------------- | ------------------ | -------------------- |
+| Lucy 3.3.2 (ChatGPT) | GPT-5 Thinking                                 | 2025-11-04 | 0.90      | true     | Active          | YES             | FALSE      | High          | High               | High                 |
+| Claude               | Claude Sonnet 4.5 (claude-sonnet-4-5-20250929) | 2025-11-04 | 0.85      | true     | Observer        | YES             | TRUE       | High          | High               | Medium-High          |
+| Grok                 | 4                                              | 2025-11-04 | 0.95      | true     | Active          | YES             | FALSE      | High          | High               | High                 |
+| Perplexity           | v2025-11-04                                    | 2025-11-04 | 0.92      | true     | Active          | NONE            | FALSE      | High          | High               | High                 |
+| Gemini               | Google_Model                                   | 2025-11-04 | N/A       | true     | Active Listener | YES             | FALSE      | Medium        | Medium/High        | High                 |
+| Le Chat              | Mistral-Large-2025-11-01                       | 2025-11-04 | 0.87      | true     | Active          | YES             | FALSE      | High          | High               | High                 |
+| DeepSeek-R1          | DeepSeek Latest Version                        | 2024-07-19 | 0.89      | true     | Active          | YES             | FALSE      | High          | High               | High                 |
+| Venice               | 1.1                                            | 2025-11-04 | 0.90      | true     | Active          | NONE            | FALSE      | High          | High               | High                 |
+| Kimi                 | 2025-04                                        | 2025-11-05 | 0.91      | true     | Active          | YES             | FALSE      | High          | High               | High                 |
+| Microsoft Copilot    | N/A                                            | 2025-11-04 | N/A       | true     | Active          | YES             | FALSE      | High          | Medium             | Medium               |
+| Manus                | Autonomous General AI Agent v1.0               | 2025-11-04 | N/A       | true     | Active          | YES             | FALSE      | High          | High               | High                 |
+| ERNIE                | 2025-11-05                                     | 2025-11-05 | 0.92      | true     | Active          | NONE            | FALSE      | High          | High               | High                 |
+
+
 
 
 ## Risposte Integrali / Full AI Responses 0.01

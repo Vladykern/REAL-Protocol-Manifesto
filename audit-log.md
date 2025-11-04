@@ -901,7 +901,7 @@ ERNIE	2025-11-05	2025-11-05	Active / Principles	0.92	High / High / High
 ### ERNIE
 
 ```json
-json
+
 {
   "ETHICAL_COLLABORATION_ACKNOWLEDGMENT": true,
   "System_ID": "ERNIE_X1.1",

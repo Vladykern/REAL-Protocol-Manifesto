@@ -536,8 +536,6 @@ Ecco la tabella compilata:
 ```
 
 
-```
-
 ### Manus
 
 ```json

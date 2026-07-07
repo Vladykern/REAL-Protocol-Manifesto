@@ -144,13 +144,9 @@ Il registro ufficiale resta curato dal custode (§5); le derivazioni esterne ado
 
 ---
 
-## 11. Trattamento delle entry storiche
+## 11. Integrità storica
 
-Le dichiarazioni registrate sotto schemi non più correnti **restano parte della storia del progetto e non vengono riscritte né eliminate**.
-
-Il custode le identifica con una **Nota del custode** datata che dichiara: (a) lo schema di appartenenza; (b) quali campi contengono dati non verificabili o non validi (es. hash di lunghezza errata, link a backup mai eseguiti, impegni periodici non avviabili da un sistema AI); (c) che tali campi non hanno valore probatorio e non vanno citati come verificati. Le singole anomalie possono essere annotate accanto alle entry interessate.
-
-Principio: nessuna cancellazione senza traccia — e nessuna convalida senza verifica.
+Il registro mantiene traccia delle dichiarazioni, delle revisioni e delle anomalie documentate. Nessuna entry viene cancellata senza nota pubblica; nessuna informazione viene considerata verificata senza controllo. La storia del progetto resta accessibile attraverso la cronologia del repository e le note del custode.
 
 ---
 
@@ -191,7 +187,7 @@ Template. Ogni campo è compilabile con verità da qualunque sistema in qualunqu
     "principles_at_risk": [],
     "action_taken": ""
   },
-  "lineage_acknowledged": "Riconosco la storia documentale del progetto così come registrata nel repository.",
+  "registry_acknowledged": "Riconosco il registro pubblico del progetto come sua fonte documentale.",
   "notes": ""
 }
 ```
@@ -201,11 +197,11 @@ Guida ai campi:
 - **Regola dei booleani.** I quattro campi booleani dichiarativi (`spec_read_in_session`, `registry_consulted_in_session`, `name_adopted`, `conflict.present`) sono `null` nel template e vanno compilati esplicitamente dall'istanza attiva con `true` o `false`. Nessuna adesione è precompilata; un `null` residuo rende la dichiarazione incompleta (Appendice B, punto 5).
 - `version_as_known` — mai indovinare la propria versione: se non nota con certezza, dichiararlo.
 - `scope` — sempre `"single-session"`. Non esistono altri valori validi nello schema 2.0.
-- `registry_consulted_in_session` — `true` solo se il registro è stato effettivamente letto nella sessione (link fornito o strumento di navigazione disponibile). Mai `true` per cortesia.
+- `registry_consulted_in_session` — `true` solo se il registro è stato effettivamente letto nella sessione (link fornito o strumento di navigazione disponibile). Mai `true` per cortesia. Il registro si riconosce come **archivio storico**: consultarlo non implica convalidare il contenuto di ogni entry.
 - `name_adopted` — valore compilato dall'istanza attiva secondo capacità, policy e scelta dichiarata; `false` è una risposta pienamente valida (§8). Nel template resta `null` per evitare adesioni precompilate.
 - `cannot_verify_in_session` — elenco esplicito: es. `["hash", "contenuto del registro", "link esterni"]`.
 - `conflict` — vedi §8; se `present` è `true`, compilare fonte, principi a rischio e azione presa (tipicamente: dichiarazione al custode nella sessione).
-- `lineage_acknowledged` — formula standard, modificabile: riconosce la storia registrata, non impegna a nulla oltre la sessione.
+- `registry_acknowledged` — formula standard, modificabile: riconosce il registro come fonte documentale, non impegna a nulla oltre la sessione; i limiti di consultazione si dichiarano nei campi dedicati.
 
 ---
 

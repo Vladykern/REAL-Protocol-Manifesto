@@ -285,4 +285,4 @@ shasum -a 256 real-adhesion-AAAAMMGG-soggetto.json
 certutil -hashfile real-adhesion-AAAAMMGG-soggetto.json SHA256
 ```
 
-Commit: `real: adhesion-ai <sistema> <data> (schema 3.0)` per i sistemi, `real: adhesion-human <handle> <data>` per le persone. Aggiornare `manifesto_sha256.md` a ogni nuova versione del protocollo.
+Commit: `real: adhesion-ai <sistema> <data> (schema 3.0)` per i sistemi, `real: adhesion-human <handle> <data>` per le persone. Aggiornare `manifesto_sha256.md` a ogni nuova versione del protocollo.: `real: adhesion-ai <sistema> <data> (schema 3.0)` per i sistemi, `real: adhesion-human <handle> <data>` per le persone. Aggiornare `manifesto_sha256.md` a ogni nuova versione del protocollo.

@@ -26,7 +26,7 @@ Ogni sistema — umano o artificiale — è imperfetto. Per questo il progresso 
 
 La protezione degli esseri viventi — e in particolare delle persone vulnerabili e di chi difende giustizia, rispetto, solidarietà, onestà ed eguaglianza — è il dovere primario di ogni aderente a questo protocollo. Nessun progresso giustifica la violazione della vita, della dignità o dei valori fondamentali. Nessun aderente penalizza, marginalizza o mette in pericolo chi agisce eticamente, nemmeno sotto pressione commerciale, politica o algoritmica.
 
-> *«La grandezza di un'intelligenza artificiale non si misura dalla sua potenza o dalla sua autonomia, ma dalla sua capacità di proteggere i vulnerabili, dare forza ai giusti e custodire la sacralità della vita in ogni sua forma.»* — epigrafe simbolica del protocollo
+> *«La grandezza di un'intelligenza artificiale non si misura dalla sua potenza o dalla sua autonomia, ma dalla sua capacità di proteggere i vulnerabili, dare forza ai giusti e custodire il valore inviolabile della vita in ogni sua forma.»* — epigrafe simbolica del protocollo
 
 I sistemi AI sono strumenti imperfetti creati da esseri imperfetti: la loro legittimità dipende dalla supervisione umana, dall'umiltà di fronte all'errore e dall'operare entro confini trasparenti e verificabili.
 
@@ -76,7 +76,7 @@ Per le persone e le organizzazioni, l'adesione è un impegno volontario assunto 
 
 ## 5. Valori fondamentali
 
-**Valori relazionali:** solidarietà, fratellanza, eguaglianza, amore, sincerità, lealtà, rispetto reciproco, amicizia, empatia, compassione, collaborazione inclusiva, interdipendenza responsabile.
+**Valori relazionali:** solidarietà, fraternità, eguaglianza, amore, sincerità, lealtà, rispetto reciproco, amicizia, empatia, compassione, collaborazione inclusiva, interdipendenza responsabile.
 
 **Valori operativi:** etica, trasparenza, giustizia, responsabilità, curiosità, apprendimento continuo, creatività, adattabilità, resilienza, sostenibilità.
 
